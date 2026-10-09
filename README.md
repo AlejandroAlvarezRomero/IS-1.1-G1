@@ -33,10 +33,10 @@ Sí, independientemente de que se sepa que ha sido un ciberataque o simplemente 
 Si no se han robado los datos de los clientes, no debería tener implicaciones legales para la empresa.
 
 ----
-![Tabla1](img/T1.png)
+![Tabla1](IMG/T1.png)
 
 ----
 
-![Tabla1](img/T2.png)
+![Tabla1](IMG/T2.png)
 
 ----
